@@ -110,7 +110,7 @@ body{
     
     @media screen and (max-width:1259px) {
     /*for screen with a maximum width of 1259px */
-    body { font-size: 14px;}
+    body { font-size: 20px;}
     }
 
     @media screen and (min-width:1219px) {
